@@ -1,19 +1,18 @@
 ## TL;DR 🎯
 
-I'm Tom, a full-stack engineer, self-taught UI designer and general tinkerer, juggling code and design to create a little bit of Control-Alt-Delight.
-
-Currently building [Crumpet](https://www.opencrumpet.com/), an open-source product adoption platform. Looking to collaborate on open-source dev tools, [shoot me a message](mailto:tom@opencrumpet.com) if you're keen to work on a project.
+I'm Tom, a full-stack engineer, UI designer and general tinkerer. 
 
 ### Tech Stack 📟
-- React.js
+- React.js / Next.js
 - Typescript
 - Python
-- Django REST
+- Django REST / Fast API
 - Flutter / Dart
-- Postgres
+- Postgres / Supabase
 - Docker
 
-### Past Projects ⛳️
+### Projects ⛳️
+- Mapping and connectivity data for Jersey: [IslandView](https://islandview.je/)
 - Digital receipts infrastructure and commerce analytics platform: [Restash](https://restash.co.uk/).
 - Turned a Raspberry Pi into a [digital receipt printer](https://github.com/tomtitherington/the-cake-can-wait).
 - Food & Beverage procurement platform: [Crately](https://gocrately.com/).
